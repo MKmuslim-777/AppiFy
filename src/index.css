@@ -10,3 +10,11 @@
 .container{
     @apply w-[1320px] mx-auto
 }
+
+.customersValue{
+    @apply flex flex-col justify-center items-center mb-5 md:mt-0 mt-7
+}
+
+.customersCount{
+    @apply text-[60px] md:text-[85px] text-white  font-bold
+}

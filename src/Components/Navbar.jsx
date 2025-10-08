@@ -1,12 +1,12 @@
 import React from "react";
 import { Link, NavLink } from "react-router";
 import logo from "../assets/Images/logo.png";
-import { Github } from "lucide-react";
+import { FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
   return (
     <div className="">
-      <div className="navbar bg-base-100 shadow-sm w-[1320px] mx-auto">
+      <div className="navbar bg-base-100 shadow-sm ">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -67,7 +67,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <Link className="btn bg-gradient-to-br from-[#632EE3] to-[#632EE3]/60 text-white hover:transform hover:scale-102" to={"mk777.rf.gd"}><Github className="bg-white rounded-full bg-clip-text p-0.5"/>Contribute</Link>
+          <Link className="btn bg-gradient-to-br from-[#632EE3] to-[#632EE3]/60 text-white hover:transform hover:scale-102" to={"mk777.rf.gd"}> <FaGithub />Contribute</Link>
         </div>
       </div>
     </div>
