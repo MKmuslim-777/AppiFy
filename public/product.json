@@ -1,0 +1,452 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&w=400",
+    "title": "Wireless Bluetooth Headphones",
+    "companyName": "Sony",
+    "id": 1,
+    "description": "Noise cancelling wireless headphones with 30hr battery life",
+    "size": 85,
+    "reviews": 12450,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 623 },
+      { "name": "2 star", "count": 872 },
+      { "name": "3 star", "count": 1865 },
+      { "name": "4 star", "count": 3740 },
+      { "name": "5 star", "count": 5350 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&w=400",
+    "title": "DSLR Camera",
+    "companyName": "Canon",
+    "id": 2,
+    "description": "24MP DSLR camera with 4K video recording",
+    "size": 42,
+    "reviews": 8920,
+    "ratingAvg": 4.3,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 446 },
+      { "name": "2 star", "count": 713 },
+      { "name": "3 star", "count": 1784 },
+      { "name": "4 star", "count": 2676 },
+      { "name": "5 star", "count": 3301 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&w=400",
+    "title": "Smart Watch",
+    "companyName": "Apple",
+    "id": 3,
+    "description": "Smartwatch with health monitoring and GPS",
+    "size": 120,
+    "reviews": 15680,
+    "ratingAvg": 4.7,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 470 },
+      { "name": "2 star", "count": 627 },
+      { "name": "3 star", "count": 1568 },
+      { "name": "4 star", "count": 4704 },
+      { "name": "5 star", "count": 8311 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?ixlib=rb-4.0.3&w=400",
+    "title": "Gaming Laptop",
+    "companyName": "ASUS",
+    "id": 4,
+    "description": "High-performance gaming laptop with RTX graphics",
+    "size": 95,
+    "reviews": 6780,
+    "ratingAvg": 4.4,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 339 },
+      { "name": "2 star", "count": 542 },
+      { "name": "3 star", "count": 1355 },
+      { "name": "4 star", "count": 2710 },
+      { "name": "5 star", "count": 1834 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?ixlib=rb-4.0.3&w=400",
+    "title": "Smartphone",
+    "companyName": "Samsung",
+    "id": 5,
+    "description": "5G smartphone with 108MP camera and 120Hz display",
+    "size": 78,
+    "reviews": 23450,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1173 },
+      { "name": "2 star", "count": 1642 },
+      { "name": "3 star", "count": 3518 },
+      { "name": "4 star", "count": 7036 },
+      { "name": "5 star", "count": 10081 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&w=400",
+    "title": "Wireless Earbuds",
+    "companyName": "JBL",
+    "id": 6,
+    "description": "True wireless earbuds with 25hr battery",
+    "size": 35,
+    "reviews": 11230,
+    "ratingAvg": 4.2,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 897 },
+      { "name": "2 star", "count": 1123 },
+      { "name": "3 star", "count": 2246 },
+      { "name": "4 star", "count": 4492 },
+      { "name": "5 star", "count": 2472 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&w=400",
+    "title": "Gaming Mouse",
+    "companyName": "Logitech",
+    "id": 7,
+    "description": "RGB gaming mouse with 16000 DPI sensor",
+    "size": 28,
+    "reviews": 8450,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 169 },
+      { "name": "2 star", "count": 338 },
+      { "name": "3 star", "count": 845 },
+      { "name": "4 star", "count": 2366 },
+      { "name": "5 star", "count": 4732 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?ixlib=rb-4.0.3&w=400",
+    "title": "Mechanical Keyboard",
+    "companyName": "Razer",
+    "id": 8,
+    "description": "Mechanical gaming keyboard with RGB lighting",
+    "size": 45,
+    "reviews": 5670,
+    "ratingAvg": 4.4,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 284 },
+      { "name": "2 star", "count": 454 },
+      { "name": "3 star", "count": 1135 },
+      { "name": "4 star", "count": 2269 },
+      { "name": "5 star", "count": 1528 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.0.3&w=400",
+    "title": "Tablet",
+    "companyName": "Apple",
+    "id": 9,
+    "description": "10.9-inch tablet with Apple Pencil support",
+    "size": 65,
+    "reviews": 9870,
+    "ratingAvg": 4.7,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 296 },
+      { "name": "2 star", "count": 493 },
+      { "name": "3 star", "count": 987 },
+      { "name": "4 star", "count": 3455 },
+      { "name": "5 star", "count": 4639 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&w=400",
+    "title": "Monitor",
+    "companyName": "Dell",
+    "id": 10,
+    "description": "27-inch 4K UHD monitor with HDR",
+    "size": 52,
+    "reviews": 7230,
+    "ratingAvg": 4.5,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 362 },
+      { "name": "2 star", "count": 579 },
+      { "name": "3 star", "count": 1447 },
+      { "name": "4 star", "count": 2894 },
+      { "name": "5 star", "count": 1948 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1569779213435-ba3167dde7cc?ixlib=rb-4.0.3&w=400",
+    "title": "Wireless Speaker",
+    "companyName": "Bose",
+    "id": 11,
+    "description": "Portable Bluetooth speaker with 360° sound",
+    "size": 38,
+    "reviews": 15620,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 937 },
+      { "name": "3 star", "count": 1874 },
+      { "name": "4 star", "count": 5622 },
+      { "name": "5 star", "count": 6562 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1606788075767-48bd0fe01613?ixlib=rb-4.0.3&w=400",
+    "title": "Coffee Maker",
+    "companyName": "Philips",
+    "id": 12,
+    "description": "Automatic espresso machine with milk frother",
+    "size": 88,
+    "reviews": 8920,
+    "ratingAvg": 4.3,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 892 },
+      { "name": "3 star", "count": 1784 },
+      { "name": "4 star", "count": 3122 },
+      { "name": "5 star", "count": 2497 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&w=400",
+    "title": "Fitness Tracker",
+    "companyName": "Fitbit",
+    "id": 13,
+    "description": "Activity tracker with heart rate monitoring",
+    "size": 32,
+    "reviews": 23410,
+    "ratingAvg": 4.4,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 1405 },
+      { "name": "2 star", "count": 1873 },
+      { "name": "3 star", "count": 4683 },
+      { "name": "4 star", "count": 9366 },
+      { "name": "5 star", "count": 6083 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&w=400",
+    "title": "Wireless Charger",
+    "companyName": "Anker",
+    "id": 14,
+    "description": "15W fast wireless charging pad",
+    "size": 25,
+    "reviews": 15670,
+    "ratingAvg": 4.5,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 784 },
+      { "name": "2 star", "count": 1098 },
+      { "name": "3 star", "count": 2350 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 6738 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&w=400",
+    "title": "External SSD",
+    "companyName": "Samsung",
+    "id": 15,
+    "description": "1TB portable SSD with 1050MB/s speeds",
+    "size": 15,
+    "reviews": 8450,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 169 },
+      { "name": "2 star", "count": 338 },
+      { "name": "3 star", "count": 845 },
+      { "name": "4 star", "count": 2366 },
+      { "name": "5 star", "count": 4732 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&w=400",
+    "title": "Gaming Chair",
+    "companyName": "Secretlab",
+    "id": 16,
+    "description": "Ergonomic gaming chair with lumbar support",
+    "size": 150,
+    "reviews": 5670,
+    "ratingAvg": 4.6,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 227 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2269 },
+      { "name": "5 star", "count": 1984 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&w=400",
+    "title": "Smart Home Hub",
+    "companyName": "Google",
+    "id": 17,
+    "description": "Voice-controlled smart home assistant",
+    "size": 42,
+    "reviews": 18920,
+    "ratingAvg": 4.4,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 1135 },
+      { "name": "2 star", "count": 1513 },
+      { "name": "3 star", "count": 3783 },
+      { "name": "4 star", "count": 7566 },
+      { "name": "5 star", "count": 4923 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?ixlib=rb-4.0.3&w=400",
+    "title": "Power Bank",
+    "companyName": "Xiaomi",
+    "id": 18,
+    "description": "20000mAh portable power bank with fast charging",
+    "size": 48,
+    "reviews": 23450,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 1173 },
+      { "name": "2 star", "count": 1642 },
+      { "name": "3 star", "count": 3518 },
+      { "name": "4 star", "count": 7036 },
+      { "name": "5 star", "count": 10081 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&w=400",
+    "title": "Wireless Mouse",
+    "companyName": "Microsoft",
+    "id": 19,
+    "description": "Ergonomic wireless mouse for office use",
+    "size": 22,
+    "reviews": 15630,
+    "ratingAvg": 4.3,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 1094 },
+      { "name": "2 star", "count": 1563 },
+      { "name": "3 star", "count": 3126 },
+      { "name": "4 star", "count": 6252 },
+      { "name": "5 star", "count": 3595 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&w=400",
+    "title": "USB-C Hub",
+    "companyName": "UGREEN",
+    "id": 20,
+    "description": "7-in-1 USB-C hub with 4K HDMI",
+    "size": 18,
+    "reviews": 8920,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 357 },
+      { "name": "2 star", "count": 535 },
+      { "name": "3 star", "count": 1338 },
+      { "name": "4 star", "count": 3746 },
+      { "name": "5 star", "count": 2944 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&w=400",
+    "title": "Webcam",
+    "companyName": "Logitech",
+    "id": 21,
+    "description": "4K webcam with autofocus and stereo mics",
+    "size": 35,
+    "reviews": 7230,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 362 },
+      { "name": "2 star", "count": 579 },
+      { "name": "3 star", "count": 1447 },
+      { "name": "4 star", "count": 2894 },
+      { "name": "5 star", "count": 1948 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.0.3&w=400",
+    "title": "E-Reader",
+    "companyName": "Amazon",
+    "id": 22,
+    "description": "6-inch e-reader with built-in light",
+    "size": 55,
+    "reviews": 15680,
+    "ratingAvg": 4.7,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 470 },
+      { "name": "2 star", "count": 627 },
+      { "name": "3 star", "count": 1568 },
+      { "name": "4 star", "count": 4704 },
+      { "name": "5 star", "count": 8311 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1569779213435-ba3167dde7cc?ixlib=rb-4.0.3&w=400",
+    "title": "Bluetooth Receiver",
+    "companyName": "TP-Link",
+    "id": 23,
+    "description": "Bluetooth 5.0 audio receiver for speakers",
+    "size": 28,
+    "reviews": 5670,
+    "ratingAvg": 4.2,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 454 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 1360 },
+      { "name": "4 star", "count": 2720 },
+      { "name": "5 star", "count": 456 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1606788075767-48bd0fe01613?ixlib=rb-4.0.3&w=400",
+    "title": "Air Purifier",
+    "companyName": "Dyson",
+    "id": 24,
+    "description": "HEPA air purifier with air quality sensor",
+    "size": 120,
+    "reviews": 4230,
+    "ratingAvg": 4.4,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 212 },
+      { "name": "2 star", "count": 339 },
+      { "name": "3 star", "count": 846 },
+      { "name": "4 star", "count": 1692 },
+      { "name": "5 star", "count": 1141 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&w=400",
+    "title": "Smart Light Bulb",
+    "companyName": "Philips Hue",
+    "id": 25,
+    "description": "Color changing smart LED bulb",
+    "size": 12,
+    "reviews": 18920,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 757 },
+      { "name": "2 star", "count": 1135 },
+      { "name": "3 star", "count": 2838 },
+      { "name": "4 star", "count": 7568 },
+      { "name": "5 star", "count": 6622 }
+    ]
+  }
+]

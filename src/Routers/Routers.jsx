@@ -13,6 +13,7 @@ export const router = createBrowserRouter([
     errorElement: <RouteError />,
     children: [
       {
+        // loader: () => fetch("./appsData.json"),
         index: true,
         Component: Home,
       },

@@ -1,0 +1,452 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
+    "title": "Photo Editor Pro",
+    "companyName": "Creative Labs",
+    "id": 1,
+    "description": "Professional photo editing app with advanced filters and tools",
+    "size": 85,
+    "reviews": 12450,
+    "ratingAvg": 4.5,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 623 },
+      { "name": "2 star", "count": 872 },
+      { "name": "3 star", "count": 1865 },
+      { "name": "4 star", "count": 3740 },
+      { "name": "5 star", "count": 5350 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
+    "title": "Finance Tracker",
+    "companyName": "Money Solutions Inc",
+    "id": 2,
+    "description": "Track your expenses and manage budgets effectively",
+    "size": 42,
+    "reviews": 8920,
+    "ratingAvg": 4.3,
+    "downloads": "25M",
+    "ratings": [
+      { "name": "1 star", "count": 446 },
+      { "name": "2 star", "count": 713 },
+      { "name": "3 star", "count": 1784 },
+      { "name": "4 star", "count": 2676 },
+      { "name": "5 star", "count": 3301 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
+    "title": "Fitness Coach",
+    "companyName": "HealthTech",
+    "id": 3,
+    "description": "Personal workout plans and fitness tracking",
+    "size": 120,
+    "reviews": 15680,
+    "ratingAvg": 4.7,
+    "downloads": "75M",
+    "ratings": [
+      { "name": "1 star", "count": 470 },
+      { "name": "2 star", "count": 627 },
+      { "name": "3 star", "count": 1568 },
+      { "name": "4 star", "count": 4704 },
+      { "name": "5 star", "count": 8311 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
+    "title": "Music Stream",
+    "companyName": "AudioTech",
+    "id": 4,
+    "description": "Stream millions of songs and create playlists",
+    "size": 95,
+    "reviews": 6780,
+    "ratingAvg": 4.4,
+    "downloads": "18M",
+    "ratings": [
+      { "name": "1 star", "count": 339 },
+      { "name": "2 star", "count": 542 },
+      { "name": "3 star", "count": 1355 },
+      { "name": "4 star", "count": 2710 },
+      { "name": "5 star", "count": 1834 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
+    "title": "Language Learn",
+    "companyName": "EduApp Inc",
+    "id": 5,
+    "description": "Learn new languages with interactive lessons",
+    "size": 78,
+    "reviews": 23450,
+    "ratingAvg": 4.6,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 1173 },
+      { "name": "2 star", "count": 1642 },
+      { "name": "3 star", "count": 3518 },
+      { "name": "4 star", "count": 7036 },
+      { "name": "5 star", "count": 10081 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
+    "title": "Budget Planner",
+    "companyName": "Finance Masters",
+    "id": 6,
+    "description": "Smart budget planning and expense tracking",
+    "size": 35,
+    "reviews": 11230,
+    "ratingAvg": 4.2,
+    "downloads": "32M",
+    "ratings": [
+      { "name": "1 star", "count": 897 },
+      { "name": "2 star", "count": 1123 },
+      { "name": "3 star", "count": 2246 },
+      { "name": "4 star", "count": 4492 },
+      { "name": "5 star", "count": 2472 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
+    "title": "Meditation Guide",
+    "companyName": "Mindful Apps",
+    "id": 7,
+    "description": "Daily meditation and mindfulness exercises",
+    "size": 28,
+    "reviews": 8450,
+    "ratingAvg": 4.8,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 169 },
+      { "name": "2 star", "count": 338 },
+      { "name": "3 star", "count": 845 },
+      { "name": "4 star", "count": 2366 },
+      { "name": "5 star", "count": 4732 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
+    "title": "Podcast Hub",
+    "companyName": "Audio Networks",
+    "id": 8,
+    "description": "Discover and listen to podcasts worldwide",
+    "size": 45,
+    "reviews": 5670,
+    "ratingAvg": 4.4,
+    "downloads": "19M",
+    "ratings": [
+      { "name": "1 star", "count": 284 },
+      { "name": "2 star", "count": 454 },
+      { "name": "3 star", "count": 1135 },
+      { "name": "4 star", "count": 2269 },
+      { "name": "5 star", "count": 1528 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
+    "title": "Recipe Book",
+    "companyName": "Foodie Apps",
+    "id": 9,
+    "description": "Thousands of recipes with step-by-step guides",
+    "size": 65,
+    "reviews": 9870,
+    "ratingAvg": 4.7,
+    "downloads": "42M",
+    "ratings": [
+      { "name": "1 star", "count": 296 },
+      { "name": "2 star", "count": 493 },
+      { "name": "3 star", "count": 987 },
+      { "name": "4 star", "count": 3455 },
+      { "name": "5 star", "count": 4639 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
+    "title": "Video Editor",
+    "companyName": "Creative Studio",
+    "id": 10,
+    "description": "Edit videos with professional tools on mobile",
+    "size": 52,
+    "reviews": 7230,
+    "ratingAvg": 4.5,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 362 },
+      { "name": "2 star", "count": 579 },
+      { "name": "3 star", "count": 1447 },
+      { "name": "4 star", "count": 2894 },
+      { "name": "5 star", "count": 1948 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
+    "title": "Expense Manager",
+    "companyName": "Smart Finance",
+    "id": 11,
+    "description": "Automated expense tracking and reports",
+    "size": 38,
+    "reviews": 15620,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 937 },
+      { "name": "3 star", "count": 1874 },
+      { "name": "4 star", "count": 5622 },
+      { "name": "5 star", "count": 6562 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
+    "title": "Yoga Trainer",
+    "companyName": "Wellness Apps",
+    "id": 12,
+    "description": "Daily yoga sessions for all skill levels",
+    "size": 88,
+    "reviews": 8920,
+    "ratingAvg": 4.3,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 892 },
+      { "name": "3 star", "count": 1784 },
+      { "name": "4 star", "count": 3122 },
+      { "name": "5 star", "count": 2497 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
+    "title": "Music Maker",
+    "companyName": "Sound Studio",
+    "id": 13,
+    "description": "Create music with virtual instruments",
+    "size": 32,
+    "reviews": 23410,
+    "ratingAvg": 4.4,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 1405 },
+      { "name": "2 star", "count": 1873 },
+      { "name": "3 star", "count": 4683 },
+      { "name": "4 star", "count": 9366 },
+      { "name": "5 star", "count": 6083 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
+    "title": "Language Translate",
+    "companyName": "Global Connect",
+    "id": 14,
+    "description": "Real-time translation for 100+ languages",
+    "size": 25,
+    "reviews": 15670,
+    "ratingAvg": 4.5,
+    "downloads": 32000000,
+    "ratings": [
+      { "name": "1 star", "count": 784 },
+      { "name": "2 star", "count": 1098 },
+      { "name": "3 star", "count": 2350 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 6738 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
+    "title": "Photo Collage",
+    "companyName": "Memory Makers",
+    "id": 15,
+    "description": "Create beautiful collages from your photos",
+    "size": 15,
+    "reviews": 8450,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 169 },
+      { "name": "2 star", "count": 338 },
+      { "name": "3 star", "count": 845 },
+      { "name": "4 star", "count": 2366 },
+      { "name": "5 star", "count": 4732 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
+    "title": "Investment Tracker",
+    "companyName": "Wealth Builders",
+    "id": 16,
+    "description": "Track stocks and manage your investments",
+    "size": 150,
+    "reviews": 5670,
+    "ratingAvg": 4.6,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 227 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2269 },
+      { "name": "5 star", "count": 1984 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
+    "title": "Sleep Tracker",
+    "companyName": "Health Monitor",
+    "id": 17,
+    "description": "Monitor and analyze your sleep patterns",
+    "size": 42,
+    "reviews": 18920,
+    "ratingAvg": 4.4,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 1135 },
+      { "name": "2 star", "count": 1513 },
+      { "name": "3 star", "count": 3783 },
+      { "name": "4 star", "count": 7566 },
+      { "name": "5 star", "count": 4923 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
+    "title": "Audio Book Reader",
+    "companyName": "Book Lovers",
+    "id": 18,
+    "description": "Listen to thousands of audiobooks",
+    "size": 48,
+    "reviews": 23450,
+    "ratingAvg": 4.5,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 1173 },
+      { "name": "2 star", "count": 1642 },
+      { "name": "3 star", "count": 3518 },
+      { "name": "4 star", "count": 7036 },
+      { "name": "5 star", "count": 10081 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
+    "title": "Learning Games",
+    "companyName": "EduFun",
+    "id": 19,
+    "description": "Educational games for kids and adults",
+    "size": 22,
+    "reviews": 15630,
+    "ratingAvg": 4.3,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 1094 },
+      { "name": "2 star", "count": 1563 },
+      { "name": "3 star", "count": 3126 },
+      { "name": "4 star", "count": 6252 },
+      { "name": "5 star", "count": 3595 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
+    "title": "Video Player Pro",
+    "companyName": "Media Apps",
+    "id": 20,
+    "description": "Advanced video player with multiple formats",
+    "size": 18,
+    "reviews": 8920,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 357 },
+      { "name": "2 star", "count": 535 },
+      { "name": "3 star", "count": 1338 },
+      { "name": "4 star", "count": 3746 },
+      { "name": "5 star", "count": 2944 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
+    "title": "Tax Calculator",
+    "companyName": "Finance Helpers",
+    "id": 21,
+    "description": "Calculate and file your taxes easily",
+    "size": 35,
+    "reviews": 7230,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 362 },
+      { "name": "2 star", "count": 579 },
+      { "name": "3 star", "count": 1447 },
+      { "name": "4 star", "count": 2894 },
+      { "name": "5 star", "count": 1948 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
+    "title": "Workout Planner",
+    "companyName": "FitLife",
+    "id": 22,
+    "description": "Custom workout plans and progress tracking",
+    "size": 55,
+    "reviews": 15680,
+    "ratingAvg": 4.7,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 470 },
+      { "name": "2 star", "count": 627 },
+      { "name": "3 star", "count": 1568 },
+      { "name": "4 star", "count": 4704 },
+      { "name": "5 star", "count": 8311 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
+    "title": "Music Lessons",
+    "companyName": "Learn Music",
+    "id": 23,
+    "description": "Learn to play instruments with interactive lessons",
+    "size": 28,
+    "reviews": 5670,
+    "ratingAvg": 4.2,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 454 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 1360 },
+      { "name": "4 star", "count": 2720 },
+      { "name": "5 star", "count": 456 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
+    "title": "Recipe Planner",
+    "companyName": "Meal Prep",
+    "id": 24,
+    "description": "Plan meals and generate shopping lists",
+    "size": 120,
+    "reviews": 4230,
+    "ratingAvg": 4.4,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 212 },
+      { "name": "2 star", "count": 339 },
+      { "name": "3 star", "count": 846 },
+      { "name": "4 star", "count": 1692 },
+      { "name": "5 star", "count": 1141 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
+    "title": "Document Scanner",
+    "companyName": "Office Tools",
+    "id": 25,
+    "description": "Scan and digitize documents with OCR",
+    "size": 12,
+    "reviews": 18920,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 757 },
+      { "name": "2 star", "count": 1135 },
+      { "name": "3 star", "count": 2838 },
+      { "name": "4 star", "count": 7568 },
+      { "name": "5 star", "count": 6622 }
+    ]
+  }
+]
