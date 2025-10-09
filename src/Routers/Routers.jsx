@@ -5,12 +5,14 @@ import AllApps from "../Pages/AllApps/AllApps";
 import MainLayouts from "../Layouts/MainLayouts";
 import RouteError from "../Pages/Errors/RouteError";
 import Installation from "../Pages/Installation/Installation";
+import AppDetails from "../Pages/AppDetails/AppDetails";
+import ErrorLayouts from "../Pages/Errors/ErrorLayouts";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     element: <MainLayouts />,
-    errorElement: <RouteError />,
+    errorElement: <ErrorLayouts />,
     children: [
       {
         // loader: () => fetch("./appsData.json"),
@@ -25,6 +27,10 @@ export const router = createBrowserRouter([
         path: "/installation",
         element: <Installation />,
       },
+      {
+        path: "/AppDetails/:id",
+        element: <AppDetails />
+      }
     ],
   },
 ]);

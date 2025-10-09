@@ -24,11 +24,11 @@ const Banner = () => {
           </p>
         </div>
         <div className="text-center gap-4">
-          <button className="btn mr-3 bg-white ">
-            <img className="w-[22px]" src={playStoreIcon} alt="" /> Play Store
+          <button className="btn mr-3 bg-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg">
+            <img className="w-[22px] " src={playStoreIcon} alt="" /> Play Store
           </button>
-          <button className="btn bg-white ">
-            <img className="w-[22px]" src={appStoreIcon} alt="" />
+          <button className="btn bg-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg">
+            <img className="w-[22px] " src={appStoreIcon} alt="" />
             App Store
           </button>
         </div>

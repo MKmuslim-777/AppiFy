@@ -1,452 +1,452 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
-    "title": "Photo Editor Pro",
-    "companyName": "Creative Labs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
     "id": 1,
-    "description": "Professional photo editing app with advanced filters and tools",
-    "size": 85,
-    "reviews": 12450,
-    "ratingAvg": 4.5,
-    "downloads": "5M",
+    "description": "WhatsApp Messenger has fundamentally transformed global communication by offering a robust, secure, and incredibly user-friendly platform for instant messaging and voice calls. Leveraging your phone's internet connection, it allows you to send unlimited text messages, create vibrant group chats with family, friends, or colleagues, and share high-quality images, videos, and documents without the constraints and costs of traditional SMS. Beyond texting, WhatsApp provides high-quality voice and video calls, enabling face-to-face conversations with anyone, anywhere in the world. A cornerstone of its appeal is its commitment to privacy; all personal messages and calls are protected with end-to-end encryption by default, ensuring that only you and the person you're communicating with can read or listen to them, and not even WhatsApp itself. The application also features Statuses, a fun way to share text, photo, video, and GIF updates that disappear after 24 hours. With its simple, intuitive interface and reliability across a vast range of mobile devices, WhatsApp has become an indispensable tool for over two billion users worldwide, fostering connection and making the world feel a little smaller. It continuously evolves with new features like disappearing messages, advanced group privacy settings, and the ability to connect to the desktop, ensuring it remains at the forefront of personal communication.",
+    "size": 78,
+    "reviews": "12K",
+    "ratingAvg": 4.2,
+    "downloads": "50M",
     "ratings": [
-      { "name": "1 star", "count": 623 },
-      { "name": "2 star", "count": 872 },
-      { "name": "3 star", "count": 1865 },
-      { "name": "4 star", "count": 3740 },
-      { "name": "5 star", "count": 5350 }
+      { "name": "1 star", "count": 6271500 },
+      { "name": "2 star", "count": 12543000 },
+      { "name": "3 star", "count": 31357500 },
+      { "name": "4 star", "count": 37629000 },
+      { "name": "5 star", "count": 720557500 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
-    "title": "Finance Tracker",
-    "companyName": "Money Solutions Inc",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Instagram",
     "id": 2,
-    "description": "Track your expenses and manage budgets effectively",
-    "size": 42,
-    "reviews": 8920,
+    "description": "Instagram is a dynamic and powerful visual storytelling platform that empowers users to capture, edit, and share their lives through photos and short videos. It's more than just an app; it's a global community where you can connect with friends, discover new passions, follow your favorite celebrities, artists, and brands, and explore what's happening in the world in real-time. The core of the experience is your Feed, a personalized stream of posts from the accounts you follow, and your Profile, where you can curate your own visual identity. With a suite of powerful yet easy-to-use creative tools, filters, and editing options, you can transform everyday moments into stunning visual content. Instagram Stories allow you to share ephemeral, full-screen content that vanishes after 24 hours, perfect for casual updates, behind-the-scenes glimpses, and interactive polls and questions. Reels offers a immersive way to create and discover entertaining, short-form videos set to music and audio. Meanwhile, IGTV supports longer, vertical videos for more in-depth content. Direct Messaging enables private conversations and sharing, making it a comprehensive social network. From aspiring photographers and small business owners to influencers and everyday users, Instagram provides a space for creativity, inspiration, and connection, shaping modern digital culture.",
+    "size": 65,
+    "reviews": "98K",
+    "ratingAvg": 4.1,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 4938250 },
+      { "name": "2 star", "count": 9876500 },
+      { "name": "3 star", "count": 24691250 },
+      { "name": "4 star", "count": 29629500 },
+      { "name": "5 star", "count": 496294500 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "TikTok Ltd.",
+    "id": 3,
+    "description": "TikTok is the premier destination for short-form mobile video, a vibrant and endlessly scrollable universe of creativity, entertainment, and trends. Its core mechanic is an AI-powered 'For You' page, a personalized video feed that learns your preferences and continuously serves you content tailored to your unique sense of humor, interests, and passions. This algorithm is remarkably effective at surfacing content from creators of all sizes, making it possible for anyone to go viral. The app provides an extensive library of sounds, songs, filters, and special effects that empower users to become creators themselves, producing everything from hilarious comedy skits and intricate dance routines to insightful educational content and heartwarming stories. TikTok is not just about watching; it's about participating in a global culture. Challenges and trends sweep through the platform, encouraging mass participation and community engagement. It has become a powerful launchpad for music, memes, and careers, fundamentally changing the entertainment landscape. Whether you're looking for a quick laugh, a new recipe, a life hack, or a deep dive into a niche hobby, TikTok's immersive, full-screen video format provides a captivating and highly addictive experience that keeps millions of users engaged for hours, making it a defining social platform of the current generation.",
+    "size": 210,
+    "reviews": "85K",
+    "ratingAvg": 4.0,
+    "downloads": "80M",
+    "ratings": [
+      { "name": "1 star", "count": 4283700 },
+      { "name": "2 star", "count": 8567400 },
+      { "name": "3 star", "count": 21418500 },
+      { "name": "4 star", "count": 25702200 },
+      { "name": "5 star", "count": 256581900 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 4,
+    "description": "Facebook is the original social networking giant that redefined how we connect online, serving as a comprehensive digital hub for friends, family, interests, and news. It allows you to create a detailed personal profile, share updates, photos, and videos, and stay intimately connected with the lives of those you care about through your personalized News Feed. Beyond individual connections, Facebook thrives on communities through its Groups feature, where you can find and interact with people who share your specific hobbies, support causes, or belong to your local neighborhood. Pages enable you to follow updates from businesses, brands, artists, and public figures. The platform also integrates powerful tools like Events, for organizing and discovering local happenings, and Marketplace, a bustling peer-to-peer buying and selling platform. Facebook Messenger is seamlessly integrated for private communication. While it has evolved, its core mission remains: to bring the world closer together. It serves as a digital scrapbook of life's milestones, a forum for discussion, a source of news and information, and a tool for business growth. Despite its scale and complexity, Facebook strives to offer a familiar and accessible space for users of all ages to maintain and strengthen their social bonds in an increasingly digital world.",
+    "size": 45,
+    "reviews": "11M",
+    "ratingAvg": 3.9,
+    "downloads": "68M",
+    "ratings": [
+      { "name": "1 star", "count": 11234500 },
+      { "name": "2 star", "count": 16851750 },
+      { "name": "3 star", "count": 28086250 },
+      { "name": "4 star", "count": 33673500 },
+      { "name": "5 star", "count": 224690000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 5,
+    "description": "Spotify is a revolutionary audio streaming service that has fundamentally changed how we listen to music and podcasts, putting a vast universe of sound literally in your pocket. It grants you instant access to millions of songs from artists spanning every genre, era, and corner of the globe, from chart-topping hits to obscure indie gems. The platform's strength lies in its powerful personalization; it learns your taste and creates custom playlists like the daily-updated 'Discover Weekly' and 'Release Radar,' which introduce you to new music you're likely to love. You can browse curated playlists for any activity, mood, or moment, whether you're working out, focusing, or relaxing. Beyond music, Spotify is a dominant force in podcasting, hosting a massive catalog of original and exclusive shows, audiobooks, and other spoken-word content on every topic imaginable. The user experience is seamless, allowing you to create your own playlists, follow friends and artists, and enjoy high-quality streaming. With options for a free, ad-supported tier and a premium subscription for offline listening and an uninterrupted experience, Spotify is the ultimate all-in-one audio companion for discovering, managing, and enjoying the world's audio content.",
+    "size": 85,
+    "reviews": "45K",
+    "ratingAvg": 4.5,
+    "downloads": "20M",
+    "ratings": [
+      { "name": "1 star", "count": 2283900 },
+      { "name": "2 star", "count": 4567800 },
+      { "name": "3 star", "count": 11419500 },
+      { "name": "4 star", "count": 13703400 },
+      { "name": "5 star", "count": 182712000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 6,
+    "description": "The Netflix mobile app transforms your phone or tablet into a portable personal theater, giving you on-demand access to one of the world's most extensive and acclaimed libraries of entertainment. It allows you to stream a vast collection of TV shows, movies, documentaries, and stand-up specials, with content tailored to your personal tastes through a sophisticated recommendation algorithm. Netflix is renowned for its high-quality original programming, including award-winning series, blockbuster films, and thought-provoking documentaries that you can't find anywhere else. The app provides a seamless and intuitive viewing experience, allowing you to create multiple personalized profiles, download titles to your device for offline viewing without an internet connection, and pick up exactly where you left off on any compatible device. With features like smart search, parental controls, and the ability to skip intros, it's designed for maximum convenience and enjoyment. Whether you're commuting, traveling, or just relaxing at home, the Netflix app delivers a premium, ad-free entertainment experience, making it the go-to destination for binge-watching your favorite stories and discovering new ones, all from the palm of your hand.",
+    "size": 32,
+    "reviews": "36K",
     "ratingAvg": 4.3,
+    "downloads": "35M",
+    "ratings": [
+      { "name": "1 star", "count": 1728350 },
+      { "name": "2 star", "count": 3456700 },
+      { "name": "3 star", "count": 8641750 },
+      { "name": "4 star", "count": 10370100 },
+      { "name": "5 star", "count": 103701000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "The YouTube app is your gateway to an almost infinite universe of video content, making it the world's largest and most diverse digital video platform. It brings the entire spectrum of human creativity and knowledge to your Android device, allowing you to watch billions of user-generated and professional videos on-demand. From music videos and video game live streams to in-depth tutorials, news clips, product reviews, and full-length documentaries, YouTube has something for everyone. The app offers a highly personalized homepage that recommends videos based on your watch history and subscriptions. You can subscribe to your favorite creators to build a custom feed, create playlists for later viewing, and interact with the community through likes, comments, and shares. YouTube Premium enhances the experience by removing all ads, enabling background play, and allowing for offline downloads. For creators, it's a powerful broadcasting tool. For viewers, it's an endless source of entertainment, education, and inspiration, a platform that has fundamentally reshaped media consumption and created global communities around shared interests, solidifying its role as an indispensable part of modern internet culture.",
+    "size": 45,
+    "reviews": "98K",
+    "ratingAvg": 4.4,
+    "downloads": "35M",
+    "ratings": [
+      { "name": "1 star", "count": 4938250 },
+      { "name": "2 star", "count": 9876500 },
+      { "name": "3 star", "count": 24691250 },
+      { "name": "4 star", "count": 29629500 },
+      { "name": "5 star", "count": 493825000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Google Maps is an essential and comprehensive navigation companion that goes far beyond simple point-to-point directions, fundamentally changing how we explore and navigate our world. It provides incredibly accurate, real-time GPS navigation, driving, cycling, and walking directions, complete with live traffic conditions, incident reports, and automatic rerouting to save you time. Its detailed, street-level maps cover virtually every corner of the globe. A key feature is its extensive database of more than 200 million places, allowing you to discover local businesses, restaurants, and attractions, complete with photos, hours, ratings, and reviews from other users. You can save your favorite places, create lists of want-to-go spots, and contribute your own reviews and photos to the community. Features like offline maps ensure you can navigate even without an internet connection, while 'Street View' offers immersive 360-degree panoramas of streets, helping you visualize your destination. Integrated public transportation schedules and ride-sharing options make multi-modal trips a breeze. For drivers, it offers lane guidance and speed limit warnings. More than just a map, it's a dynamic, intelligent tool for planning your day, discovering new experiences, and traveling with confidence, making it one of the most practical and powerful apps ever created.",
+    "size": 120,
+    "reviews": "25M",
+    "ratingAvg": 4.6,
+    "downloads": "256M",
+    "ratings": [
+      { "name": "1 star", "count": 3827150 },
+      { "name": "2 star", "count": 7654300 },
+      { "name": "3 star", "count": 19135750 },
+      { "name": "4 star", "count": 22962900 },
+      { "name": "5 star", "count": 382715000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "The Gmail app for Android delivers the full power and simplicity of Google's industry-leading email service directly to your mobile device, offering a fast, organized, and secure email experience. It features a clean, intuitive interface that makes managing your email effortless. Its powerful spam filtering automatically blocks over 99.9% of dangerous and unwanted emails before they ever reach your inbox. Gmail intelligently categorizes your mail into Primary, Social, and Promotions tabs, helping you focus on what matters most. The app supports multiple accounts, including Gmail, Outlook, Hotmail, and Yahoo, allowing you to manage all your email from a single, unified inbox. High-priority emails are highlighted automatically, and you can easily swipe to archive, delete, or schedule messages. Seamless integration with Google's ecosystem allows you to schedule events directly in Google Calendar, save files to Google Drive, and video chat with Google Meet without leaving the app. With robust search capabilities that can find any email in seconds, and industry-leading security features protecting your account, the Gmail app is an indispensable tool for personal and professional communication, designed to save you time and keep you connected and productive on the go.",
+    "size": 25,
+    "reviews": "35K",
+    "ratingAvg": 4.7,
     "downloads": "25M",
     "ratings": [
-      { "name": "1 star", "count": 446 },
-      { "name": "2 star", "count": 713 },
-      { "name": "3 star", "count": 1784 },
-      { "name": "4 star", "count": 2676 },
-      { "name": "5 star", "count": 3301 }
+      { "name": "1 star", "count": 3271600 },
+      { "name": "2 star", "count": 6543200 },
+      { "name": "3 star", "count": 16358000 },
+      { "name": "4 star", "count": 19629600 },
+      { "name": "5 star", "count": 327160000 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
-    "title": "Fitness Coach",
-    "companyName": "HealthTech",
-    "id": 3,
-    "description": "Personal workout plans and fitness tracking",
-    "size": 120,
-    "reviews": 15680,
-    "ratingAvg": 4.7,
-    "downloads": "75M",
-    "ratings": [
-      { "name": "1 star", "count": 470 },
-      { "name": "2 star", "count": 627 },
-      { "name": "3 star", "count": 1568 },
-      { "name": "4 star", "count": 4704 },
-      { "name": "5 star", "count": 8311 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
-    "title": "Music Stream",
-    "companyName": "AudioTech",
-    "id": 4,
-    "description": "Stream millions of songs and create playlists",
-    "size": 95,
-    "reviews": 6780,
-    "ratingAvg": 4.4,
-    "downloads": "18M",
-    "ratings": [
-      { "name": "1 star", "count": 339 },
-      { "name": "2 star", "count": 542 },
-      { "name": "3 star", "count": 1355 },
-      { "name": "4 star", "count": 2710 },
-      { "name": "5 star", "count": 1834 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
-    "title": "Language Learn",
-    "companyName": "EduApp Inc",
-    "id": 5,
-    "description": "Learn new languages with interactive lessons",
-    "size": 78,
-    "reviews": 23450,
-    "ratingAvg": 4.6,
-    "downloads": "12M",
-    "ratings": [
-      { "name": "1 star", "count": 1173 },
-      { "name": "2 star", "count": 1642 },
-      { "name": "3 star", "count": 3518 },
-      { "name": "4 star", "count": 7036 },
-      { "name": "5 star", "count": 10081 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
-    "title": "Budget Planner",
-    "companyName": "Finance Masters",
-    "id": 6,
-    "description": "Smart budget planning and expense tracking",
-    "size": 35,
-    "reviews": 11230,
-    "ratingAvg": 4.2,
-    "downloads": "32M",
-    "ratings": [
-      { "name": "1 star", "count": 897 },
-      { "name": "2 star", "count": 1123 },
-      { "name": "3 star", "count": 2246 },
-      { "name": "4 star", "count": 4492 },
-      { "name": "5 star", "count": 2472 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
-    "title": "Meditation Guide",
-    "companyName": "Mindful Apps",
-    "id": 7,
-    "description": "Daily meditation and mindfulness exercises",
-    "size": 28,
-    "reviews": 8450,
-    "ratingAvg": 4.8,
-    "downloads": "15M",
-    "ratings": [
-      { "name": "1 star", "count": 169 },
-      { "name": "2 star", "count": 338 },
-      { "name": "3 star", "count": 845 },
-      { "name": "4 star", "count": 2366 },
-      { "name": "5 star", "count": 4732 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
-    "title": "Podcast Hub",
-    "companyName": "Audio Networks",
-    "id": 8,
-    "description": "Discover and listen to podcasts worldwide",
-    "size": 45,
-    "reviews": 5670,
-    "ratingAvg": 4.4,
-    "downloads": "19M",
-    "ratings": [
-      { "name": "1 star", "count": 284 },
-      { "name": "2 star", "count": 454 },
-      { "name": "3 star", "count": 1135 },
-      { "name": "4 star", "count": 2269 },
-      { "name": "5 star", "count": 1528 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
-    "title": "Recipe Book",
-    "companyName": "Foodie Apps",
-    "id": 9,
-    "description": "Thousands of recipes with step-by-step guides",
-    "size": 65,
-    "reviews": 9870,
-    "ratingAvg": 4.7,
-    "downloads": "42M",
-    "ratings": [
-      { "name": "1 star", "count": 296 },
-      { "name": "2 star", "count": 493 },
-      { "name": "3 star", "count": 987 },
-      { "name": "4 star", "count": 3455 },
-      { "name": "5 star", "count": 4639 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
-    "title": "Video Editor",
-    "companyName": "Creative Studio",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
     "id": 10,
-    "description": "Edit videos with professional tools on mobile",
-    "size": 52,
-    "reviews": 7230,
-    "ratingAvg": 4.5,
-    "downloads": 11000000,
-    "ratings": [
-      { "name": "1 star", "count": 362 },
-      { "name": "2 star", "count": 579 },
-      { "name": "3 star", "count": 1447 },
-      { "name": "4 star", "count": 2894 },
-      { "name": "5 star", "count": 1948 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
-    "title": "Expense Manager",
-    "companyName": "Smart Finance",
-    "id": 11,
-    "description": "Automated expense tracking and reports",
-    "size": 38,
-    "reviews": 15620,
-    "ratingAvg": 4.6,
-    "downloads": 2800000,
-    "ratings": [
-      { "name": "1 star", "count": 625 },
-      { "name": "2 star", "count": 937 },
-      { "name": "3 star", "count": 1874 },
-      { "name": "4 star", "count": 5622 },
-      { "name": "5 star", "count": 6562 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
-    "title": "Yoga Trainer",
-    "companyName": "Wellness Apps",
-    "id": 12,
-    "description": "Daily yoga sessions for all skill levels",
-    "size": 88,
-    "reviews": 8920,
-    "ratingAvg": 4.3,
-    "downloads": 950000,
-    "ratings": [
-      { "name": "1 star", "count": 625 },
-      { "name": "2 star", "count": 892 },
-      { "name": "3 star", "count": 1784 },
-      { "name": "4 star", "count": 3122 },
-      { "name": "5 star", "count": 2497 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
-    "title": "Music Maker",
-    "companyName": "Sound Studio",
-    "id": 13,
-    "description": "Create music with virtual instruments",
-    "size": 32,
-    "reviews": 23410,
-    "ratingAvg": 4.4,
-    "downloads": 6800000,
-    "ratings": [
-      { "name": "1 star", "count": 1405 },
-      { "name": "2 star", "count": 1873 },
-      { "name": "3 star", "count": 4683 },
-      { "name": "4 star", "count": 9366 },
-      { "name": "5 star", "count": 6083 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
-    "title": "Language Translate",
-    "companyName": "Global Connect",
-    "id": 14,
-    "description": "Real-time translation for 100+ languages",
-    "size": 25,
-    "reviews": 15670,
-    "ratingAvg": 4.5,
-    "downloads": 32000000,
-    "ratings": [
-      { "name": "1 star", "count": 784 },
-      { "name": "2 star", "count": 1098 },
-      { "name": "3 star", "count": 2350 },
-      { "name": "4 star", "count": 4700 },
-      { "name": "5 star", "count": 6738 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
-    "title": "Photo Collage",
-    "companyName": "Memory Makers",
-    "id": 15,
-    "description": "Create beautiful collages from your photos",
-    "size": 15,
-    "reviews": 8450,
-    "ratingAvg": 4.8,
-    "downloads": 12000000,
-    "ratings": [
-      { "name": "1 star", "count": 169 },
-      { "name": "2 star", "count": 338 },
-      { "name": "3 star", "count": 845 },
-      { "name": "4 star", "count": 2366 },
-      { "name": "5 star", "count": 4732 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
-    "title": "Investment Tracker",
-    "companyName": "Wealth Builders",
-    "id": 16,
-    "description": "Track stocks and manage your investments",
-    "size": 150,
-    "reviews": 5670,
-    "ratingAvg": 4.6,
-    "downloads": 850000,
-    "ratings": [
-      { "name": "1 star", "count": 227 },
-      { "name": "2 star", "count": 340 },
-      { "name": "3 star", "count": 850 },
-      { "name": "4 star", "count": 2269 },
-      { "name": "5 star", "count": 1984 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
-    "title": "Sleep Tracker",
-    "companyName": "Health Monitor",
-    "id": 17,
-    "description": "Monitor and analyze your sleep patterns",
-    "size": 42,
-    "reviews": 18920,
-    "ratingAvg": 4.4,
-    "downloads": 5500000,
-    "ratings": [
-      { "name": "1 star", "count": 1135 },
-      { "name": "2 star", "count": 1513 },
-      { "name": "3 star", "count": 3783 },
-      { "name": "4 star", "count": 7566 },
-      { "name": "5 star", "count": 4923 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
-    "title": "Audio Book Reader",
-    "companyName": "Book Lovers",
-    "id": 18,
-    "description": "Listen to thousands of audiobooks",
-    "size": 48,
-    "reviews": 23450,
-    "ratingAvg": 4.5,
-    "downloads": 4200000,
-    "ratings": [
-      { "name": "1 star", "count": 1173 },
-      { "name": "2 star", "count": 1642 },
-      { "name": "3 star", "count": 3518 },
-      { "name": "4 star", "count": 7036 },
-      { "name": "5 star", "count": 10081 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
-    "title": "Learning Games",
-    "companyName": "EduFun",
-    "id": 19,
-    "description": "Educational games for kids and adults",
-    "size": 22,
-    "reviews": 15630,
-    "ratingAvg": 4.3,
-    "downloads": 2800000,
-    "ratings": [
-      { "name": "1 star", "count": 1094 },
-      { "name": "2 star", "count": 1563 },
-      { "name": "3 star", "count": 3126 },
-      { "name": "4 star", "count": 6252 },
-      { "name": "5 star", "count": 3595 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
-    "title": "Video Player Pro",
-    "companyName": "Media Apps",
-    "id": 20,
-    "description": "Advanced video player with multiple formats",
-    "size": 18,
-    "reviews": 8920,
-    "ratingAvg": 4.6,
-    "downloads": 1500000,
-    "ratings": [
-      { "name": "1 star", "count": 357 },
-      { "name": "2 star", "count": 535 },
-      { "name": "3 star", "count": 1338 },
-      { "name": "4 star", "count": 3746 },
-      { "name": "5 star", "count": 2944 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=400",
-    "title": "Tax Calculator",
-    "companyName": "Finance Helpers",
-    "id": 21,
-    "description": "Calculate and file your taxes easily",
-    "size": 35,
-    "reviews": 7230,
-    "ratingAvg": 4.5,
-    "downloads": 950000,
-    "ratings": [
-      { "name": "1 star", "count": 362 },
-      { "name": "2 star", "count": 579 },
-      { "name": "3 star", "count": 1447 },
-      { "name": "4 star", "count": 2894 },
-      { "name": "5 star", "count": 1948 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&w=400",
-    "title": "Workout Planner",
-    "companyName": "FitLife",
-    "id": 22,
-    "description": "Custom workout plans and progress tracking",
-    "size": 55,
-    "reviews": 15680,
-    "ratingAvg": 4.7,
-    "downloads": 3200000,
-    "ratings": [
-      { "name": "1 star", "count": 470 },
-      { "name": "2 star", "count": 627 },
-      { "name": "3 star", "count": 1568 },
-      { "name": "4 star", "count": 4704 },
-      { "name": "5 star", "count": 8311 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&w=400",
-    "title": "Music Lessons",
-    "companyName": "Learn Music",
-    "id": 23,
-    "description": "Learn to play instruments with interactive lessons",
-    "size": 28,
-    "reviews": 5670,
+    "description": "The Amazon Shopping app brings the immense 'everything store' directly to your smartphone, offering a seamless and feature-rich mobile shopping experience. It provides access to Amazon's colossal catalog of millions of products, from electronics, books, and clothing to groceries, home goods, and beyond. The app is designed for convenience and discovery, featuring personalized recommendations based on your browsing and purchase history. You can easily search for items, compare prices, read detailed customer reviews and ratings, and view high-quality product images from multiple angles. One-click ordering and secure payment options through Amazon Pay make checkout incredibly fast and safe. The app also integrates unique features like Amazon Camera, which allows you to scan barcodes or take pictures of products in the real world to find them on Amazon, and Alexa integration for voice shopping. You can track your orders in real-time, manage your Amazon Prime membership for free fast shipping, access exclusive Prime deals, and stream Prime Video content. For sellers, it's a powerful storefront. For buyers, it's the ultimate tool for researching, purchasing, and managing your shopping needs, making it an essential app for savvy consumers.",
+    "size": 95,
+    "reviews": "54K",
     "ratingAvg": 4.2,
-    "downloads": 850000,
+    "downloads": "25M",
     "ratings": [
-      { "name": "1 star", "count": 454 },
-      { "name": "2 star", "count": 680 },
-      { "name": "3 star", "count": 1360 },
-      { "name": "4 star", "count": 2720 },
-      { "name": "5 star", "count": 456 }
+      { "name": "1 star", "count": 2716050 },
+      { "name": "2 star", "count": 5432100 },
+      { "name": "3 star", "count": 13580250 },
+      { "name": "4 star", "count": 16296300 },
+      { "name": "5 star", "count": 217284000 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&w=400",
-    "title": "Recipe Planner",
-    "companyName": "Meal Prep",
-    "id": 24,
-    "description": "Plan meals and generate shopping lists",
-    "size": 120,
-    "reviews": 4230,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "zoom.us",
+    "id": 11,
+    "description": "Zoom is the industry-leading video communications platform that became a household name by enabling reliable and high-quality virtual meetings, webinars, and collaboration from anywhere. The mobile app delivers a robust and user-friendly experience, allowing you to join or host secure video meetings with up to 100 participants on the free plan and even more on paid tiers. It features crystal-clear audio and HD video, making remote interactions feel more personal and engaging. Key collaboration tools include screen sharing from your mobile device, a collaborative digital whiteboard, and in-meeting chat for sharing links and ideas. You can easily schedule meetings and send invitations directly from the app, which integrates with popular calendar services. Virtual backgrounds allow you to maintain privacy or add a touch of fun to your calls, while gallery and speaker views help you see everyone in the meeting. With end-to-end encryption for security and features like breakout rooms for dividing a meeting into smaller groups, the Zoom app is an indispensable tool for remote work, online learning, virtual social gatherings, and telehealth appointments, proving that distance is no longer a barrier to effective communication and collaboration.",
+    "size": 180,
+    "reviews": "43K",
+    "ratingAvg": 4.3,
+    "downloads": "30M",
+    "ratings": [
+      { "name": "1 star", "count": 2160500 },
+      { "name": "2 star", "count": 4321000 },
+      { "name": "3 star", "count": 10802500 },
+      { "name": "4 star", "count": 12963000 },
+      { "name": "5 star", "count": 129630000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "id": 12,
+    "description": "Microsoft Outlook for Android is a powerful, all-in-one email and calendar app designed to help you achieve more and stay organized across all your devices. It seamlessly integrates your email accounts—including Outlook, Office 365, Gmail, Yahoo, and iCloud—into a single, focused inbox. Its standout feature is the 'Focused Inbox,' which automatically separates your most important emails from less critical ones, helping you concentrate on what truly matters without distraction. The app goes beyond email by deeply integrating your calendar, allowing you to view and manage your schedule, share your availability, and schedule meetings directly from your inbox. The file viewer lets you access, view, and share attachments from OneDrive, Dropbox, and other cloud services without leaving the app. With robust security features powered by Microsoft's advanced threat protection, your information stays safe. The intuitive design, with easy swipe gestures to quickly archive, delete, or schedule emails for later, makes managing a high-volume inbox surprisingly efficient. Whether for professional use with Microsoft 365 integration or for personal email management, Outlook provides a premium, feature-rich experience that boosts productivity and keeps your digital life perfectly synchronized.",
+    "size": 110,
+    "reviews": "256K",
     "ratingAvg": 4.4,
-    "downloads": 680000,
+    "downloads": "36M",
     "ratings": [
-      { "name": "1 star", "count": 212 },
-      { "name": "2 star", "count": 339 },
-      { "name": "3 star", "count": 846 },
-      { "name": "4 star", "count": 1692 },
-      { "name": "5 star", "count": 1141 }
+      { "name": "1 star", "count": 1605450 },
+      { "name": "2 star", "count": 3210900 },
+      { "name": "3 star", "count": 8027250 },
+      { "name": "4 star", "count": 9632700 },
+      { "name": "5 star", "count": 160545000 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=400",
-    "title": "Document Scanner",
-    "companyName": "Office Tools",
-    "id": 25,
-    "description": "Scan and digitize documents with OCR",
-    "size": 12,
-    "reviews": 18920,
-    "ratingAvg": 4.6,
-    "downloads": 2800000,
+    "image": "https://i.ibb.co.com/BHdPv3cd/uber.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 13,
+    "description": "The Uber app has revolutionized urban mobility by providing a reliable, on-demand tap-of-a-button solution for getting a ride or having food delivered. For riders, it simplifies transportation: just open the app, enter your destination, and see your upfront fare and the estimated time of arrival for your driver. You can choose from a range of options to suit your needs and budget, from affordable everyday rides to premium vehicles and larger cars for groups. The entire process is cashless and seamless; payment is handled automatically through the app, and you can rate your driver at the end of the trip. Beyond rides, Uber Eats connects you with hundreds of local restaurants for food delivery, bringing your favorite meals to your door. The app also provides real-time tracking so you can see your driver's route and share your ETA with friends and family for safety. For drivers, it's a flexible way to earn money. By making transportation as easy and reliable as running water, Uber has become an integral part of city life for millions, offering freedom, convenience, and new economic opportunities.",
+    "size": 75,
+    "reviews": "25K",
+    "ratingAvg": 4.1,
+    "downloads": "36M",
     "ratings": [
-      { "name": "1 star", "count": 757 },
-      { "name": "2 star", "count": 1135 },
-      { "name": "3 star", "count": 2838 },
-      { "name": "4 star", "count": 7568 },
-      { "name": "5 star", "count": 6622 }
+      { "name": "1 star", "count": 1493800 },
+      { "name": "2 star", "count": 2987600 },
+      { "name": "3 star", "count": 7469000 },
+      { "name": "4 star", "count": 8962800 },
+      { "name": "5 star", "count": 149380000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 14,
+    "description": "Snapchat pioneered a new, more spontaneous form of visual communication centered around ephemerality and augmented reality. It distinguishes itself from other social platforms with its core premise that messages, called Snaps, are not permanent by default. You can send photos and short videos to friends that disappear after they're viewed, encouraging more authentic and in-the-moment sharing. The app is famous for its vast and ever-growing library of Lenses, which are interactive, augmented reality experiences that can transform your appearance, overlay 3D objects into the world, or play interactive games. Stories allow you to post Snaps that form a narrative and are visible to your friends for 24 hours, while Discover provides a curated platform for publishers, creators, and the community to share longer-form content. The Map feature lets you see where your friends are (if they choose to share their location) and view Snaps from events around the world. With a focus on privacy and talking with your close friends rather than broadcasting to a wide audience, Snapchat has cultivated a unique and loyal user base, particularly among younger demographics, who appreciate its playful, creative, and less-permanent approach to digital interaction.",
+    "size": 150,
+    "reviews": "26K",
+    "ratingAvg": 3.8,
+    "downloads": "268K",
+    "ratings": [
+      { "name": "1 star", "count": 2876500 },
+      { "name": "2 star", "count": 5753000 },
+      { "name": "3 star", "count": 14382500 },
+      { "name": "4 star", "count": 17259000 },
+      { "name": "5 star", "count": 86295000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DqzYC60/twitter.png",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 15,
+    "description": "Twitter is the world's real-time public conversation platform, often described as a digital public square. It's where news breaks, trends emerge, and people connect over shared interests and current events through short, concise messages known as Tweets, which are limited to 280 characters. This constraint fosters creativity and brevity. The app's core experience is your Timeline, a flowing stream of Tweets from accounts you choose to follow, which can include friends, journalists, celebrities, politicians, and brands. You can engage with Tweets by Liking them, Retweeting them to share with your own followers, or Replying to join the conversation. Hashtags help you find discussions about specific topics, from global politics to niche hobbies. Twitter's speed is unparalleled; it's the first place many people turn to during live events, sports games, or cultural moments to get instant updates and diverse perspectives. From direct, private messages to public threads that can spark global movements, Twitter provides a unique and powerful platform for information dissemination, networking, and witnessing history unfold in real-time, making it an essential tool for the informed and connected citizen.",
+    "size": 85,
+    "reviews": "27M",
+    "ratingAvg": 4.0,
+    "downloads": "38M",
+    "ratings": [
+      { "name": "1 star", "count": 1382700 },
+      { "name": "2 star", "count": 2765400 },
+      { "name": "3 star", "count": 6913500 },
+      { "name": "4 star", "count": 8296200 },
+      { "name": "5 star", "count": 110616000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn",
+    "id": 16,
+    "description": "LinkedIn is the world's largest professional network, an essential digital platform designed to connect the global workforce. It serves as a dynamic online resume, a powerful networking tool, and a leading source for industry news and career opportunities. Your LinkedIn profile acts as your professional identity, showcasing your work experience, skills, education, and accomplishments. The core of the app is your feed, where you can stay informed with news and insights from your connections, companies you follow, and industry influencers. It's the premier destination for job seekers, with a comprehensive job board where you can search for openings, receive personalized recommendations, and even apply directly with your profile. Recruiters and hiring managers actively use LinkedIn to source talent. Beyond job hunting, it's a place for professional development; you can share your own expertise through articles and posts, join groups related to your field, and take online courses through LinkedIn Learning. Messaging allows for direct communication with colleagues and potential business partners. By fostering connections and knowledge sharing among professionals, LinkedIn has become an indispensable tool for career management, personal branding, and business development in the modern economy.",
+    "size": 95,
+    "reviews": "58K",
+    "ratingAvg": 4.2,
+    "downloads": "35M",
+    "ratings": [
+      { "name": "1 star", "count": 1327150 },
+      { "name": "2 star", "count": 2654300 },
+      { "name": "3 star", "count": 6635750 },
+      { "name": "4 star", "count": 7962900 },
+      { "name": "5 star", "count": 132715000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg",
+    "title": "PayPal",
+    "companyName": "PayPal Mobile",
+    "id": 17,
+    "description": "The PayPal app is a trusted and versatile digital wallet that simplifies and secures your financial transactions, both online and in-person. It allows you to send and receive money with remarkable ease; you can pay friends back for dinner, split a gift, or receive payments for services using just an email address or mobile number, often without any fees. The app securely links to your bank account, credit card, or debit card, so you never have to share your sensitive financial details directly with merchants or individuals. When shopping online at millions of websites that accept PayPal, you can check out in just a few clicks without manually entering your payment information each time. The app also supports in-store payments at participating retailers via QR codes. With robust buyer and seller protection policies, PayPal adds a significant layer of security to your transactions, helping to resolve disputes if something goes wrong. Features like the ability to track your spending, manage your balance, and even buy, hold, and sell cryptocurrency make the PayPal app a comprehensive financial tool for managing your money in a fast, secure, and convenient way.",
+    "size": 65,
+    "reviews": "25K",
+    "ratingAvg": 4.5,
+    "downloads": "78M",
+    "ratings": [
+      { "name": "1 star", "count": 1271600 },
+      { "name": "2 star", "count": 2543200 },
+      { "name": "3 star", "count": 6358000 },
+      { "name": "4 star", "count": 7629600 },
+      { "name": "5 star", "count": 152592000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jkx8Q7YR/discord.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 18,
+    "description": "Discord started as a communication tool for gamers but has evolved into a general-purpose platform for forming communities and talking with friends across text, voice, and video. Its core structure is built around servers, which are dedicated communities organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat. Servers can be small and private for a handful of friends or large public communities with thousands of members centered around any hobby or interest imaginable. Within these servers, you can hop between voice channels for spontaneous conversations or scheduled events, and use text channels for sharing memes, files, and links. Discord provides high-quality, low-latency voice chat that feels like you're in the same room, making it perfect for everything from coordinating in a game to hosting a virtual book club or study session. With features like screen sharing, video calls, and robust moderation tools, Discord is an incredibly flexible and powerful platform for bringing people together around shared interests, fostering a sense of belonging and real-time interaction that other social platforms often lack.",
+    "size": 120,
+    "reviews": "58K",
+    "ratingAvg": 4.6,
+    "downloads": "36M",
+    "ratings": [
+      { "name": "1 star", "count": 1216050 },
+      { "name": "2 star", "count": 2432100 },
+      { "name": "3 star", "count": 6080250 },
+      { "name": "4 star", "count": 7296300 },
+      { "name": "5 star", "count": 170294400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/DHspbbQX/document.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe",
+    "id": 19,
+    "description": "Adobe Acrobat Reader is the global standard for reliably viewing, printing, signing, and annotating PDF documents on your mobile device. It transforms your phone or tablet into a powerful PDF toolkit, allowing you to work with documents anywhere. You can easily open and view any PDF file with high fidelity, ensuring it looks exactly as the sender intended, regardless of the device or operating system. The app is packed with essential tools: you can highlight text, add sticky notes, draw freehand, and type comments directly onto the document for collaboration or personal notes. One of its most valued features is the ability to electronically fill out, sign, and send forms and contracts. You can use your finger to create a signature or use a saved image of it, making paperwork incredibly fast and paperless. The app also allows you to combine multiple files—images, web pages, other PDFs—into a single, organized PDF. With seamless integration into cloud storage services like Adobe Document Cloud, Dropbox, and Google Drive, your important documents are always accessible and up to date. For students, professionals, and anyone who deals with digital documents, Acrobat Reader is an indispensable productivity app.",
+    "size": 180,
+    "reviews": "258K",
+    "ratingAvg": 4.4,
+    "downloads": "698K",
+    "ratings": [
+      { "name": "1 star", "count": 1160500 },
+      { "name": "2 star", "count": 2321000 },
+      { "name": "3 star", "count": 5802500 },
+      { "name": "4 star", "count": 6963000 },
+      { "name": "5 star", "count": 139260000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TMg5cVHV/shazam.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 20,
+    "description": "Shazam is a magical and ingenious app that acts as your personal music detective, instantly identifying songs playing in the world around you with a simple tap. Whether you're in a cafe, a car, a shop, or watching a movie, just open the app and let it listen to a short snippet of the music. Within seconds, it will display the song title, artist, album, and lyrics, satisfying your musical curiosity instantly. Beyond mere identification, Shazam integrates deeply with your music ecosystem; you can view your history of all previously Shazamed songs, play the full track in Apple Music, Spotify, or YouTube, and watch the official music video. The app also provides personalized music recommendations and charts of what's popular in your area and around the world. Its Auto Shazam feature can run in the background, continuously listening for and identifying music even when you're not actively using the app. By seamlessly connecting the auditory world to digital information, Shazam has solved one of life's small but persistent frustrations, making it a beloved and essential utility for music lovers everywhere.",
+    "size": 45,
+    "reviews": "22K",
+    "ratingAvg": 4.7,
+    "downloads": "65M",
+    "ratings": [
+      { "name": "1 star", "count": 1105450 },
+      { "name": "2 star", "count": 2210900 },
+      { "name": "3 star", "count": 5527250 },
+      { "name": "4 star", "count": 6632700 },
+      { "name": "5 star", "count": 154763000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SXTqWCzj/portrait-lockup.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 21,
+    "description": "Duolingo has democratized language learning by making it free, fun, and accessible to everyone through its playful, game-like mobile app. It turns the daunting task of learning a new language into an engaging and addictive daily habit. The app offers bite-sized lessons that feel more like playing a game than studying, using a variety of exercises including speaking, listening, translation, and multiple choice to reinforce vocabulary and grammar. Its mascot, the friendly green owl Duo, provides encouragement and reminders to maintain your learning streak, a powerful motivator for consistency. The curriculum is structured like a tree, where you unlock new skills as you progress, covering a wide range of languages from Spanish, French, and German to less commonly taught ones like Navajo and High Valyrian. With features like leaderboards to compete with friends, in-app rewards (Lingots), and stories to test your comprehension, Duolingo makes the learning process social and rewarding. Its mission is to make high-quality education available to all, and by breaking down language barriers in an enjoyable way, it has become the most popular language-learning platform in the world, used by millions to unlock new opportunities for travel, work, and connection.",
+    "size": 35,
+    "reviews": "21K",
+    "ratingAvg": 4.7,
+    "downloads": "58M",
+    "ratings": [
+      { "name": "1 star", "count": 1099350 },
+      { "name": "2 star", "count": 2198700 },
+      { "name": "3 star", "count": 5496750 },
+      { "name": "4 star", "count": 6596100 },
+      { "name": "5 star", "count": 153909000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 22,
+    "description": "Pinterest is a visual discovery engine and a boundless source of inspiration for planning your life and projects. It functions as a personalized digital pinboard where you can discover and save ideas for everything from home decor and wedding planning to fashion, recipes, and DIY crafts. The app's core action is 'pinning': when you find an image or video (a 'Pin') you like, you save it to a custom board you create, such as 'Dream Kitchen' or 'Vacation Ideas.' The home feed is a continuously updating stream of Pins tailored to your interests, based on what you've previously saved and searched for. Powerful visual search tools allow you to take a picture of something you like in the real world (e.g., a piece of furniture or an outfit) and find similar items and ideas on Pinterest. It's less about social connection and more about personal curation and discovery, making it a go-to resource for planners, creatives, and dreamers. Whether you're looking for a new dinner recipe, designing your living room, or planning your next trip, Pinterest helps you visualize your goals and turn inspiration into action, serving as a practical and endlessly inspiring tool for bringing your ideas to life.",
+    "size": 55,
+    "reviews": "568K",
+    "ratingAvg": 4.3,
+    "downloads": "36M",
+    "ratings": [
+      { "name": "1 star", "count": 1043800 },
+      { "name": "2 star", "count": 2087600 },
+      { "name": "3 star", "count": 5219000 },
+      { "name": "4 star", "count": 6262800 },
+      { "name": "5 star", "count": 104380000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fGPDRHHT/pngwing-com.png",
+    "title": "Booking.com",
+    "companyName": "Booking.com",
+    "id": 23,
+    "description": "The Booking.com app is a comprehensive travel companion that puts the world of accommodation and experiences at your fingertips, simplifying the entire process of planning and managing your trips. It offers an extensive inventory of over 28 million reported accommodation listings, including everything from hotels, resorts, and vacation rentals to apartments, hostels, and even unique properties like houseboats and igloos. The app's intuitive interface allows you to easily search for your destination, filter results by price, star rating, amenities (like free WiFi or swimming pools), and read genuine guest reviews to make an informed decision. Many properties offer free cancellation, providing flexibility for uncertain travel plans. Beyond lodging, the app also allows you to book flights, rental cars, and airport taxis, creating a seamless all-in-one travel booking experience. With features like mobile check-in for select hotels, easy access to your booking confirmations, and 24/7 customer support, the Booking.com app empowers you to travel with confidence and convenience, making it an essential tool for both frequent globetrotters and occasional vacationers alike.",
+    "size": 95,
+    "reviews": "68K",
+    "ratingAvg": 4.5,
+    "downloads": "68M",
+    "ratings": [
+      { "name": "1 star", "count": 988250 },
+      { "name": "2 star", "count": 1976500 },
+      { "name": "3 star", "count": 4941250 },
+      { "name": "4 star", "count": 5929500 },
+      { "name": "5 star", "count": 118590000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1tbpYnbF/location.png",
+    "title": "Waze Navigation & Live Traffic",
+    "companyName": "Waze",
+    "id": 24,
+    "description": "Waze is a unique, community-driven navigation app that harnesses the power of its users to create the smartest and most sociable driving experience possible. Unlike traditional map apps, Waze relies on real-time data submitted by millions of its users, called 'Wazers,' to provide the most up-to-the-minute information on the road ahead. As you drive, the app passively collects data on your speed, but the real magic happens when users actively report traffic jams, police presence, accidents, road closures, and hazards. This creates a living, breathing map that can reroute you around trouble before you even reach it, saving you time and frustration. The app features turn-by-turn voice-guided navigation, but its personality shines through with customizable voice directions (including celebrity voices) and the ability to see the avatars of other Wazers on the map. You can coordinate drives with friends by sharing your ETA or see when they'll arrive. By working together, the Waze community outsmarts traffic, making every driver's daily commute or road trip smoother, faster, and more connected. It's navigation, evolved by its users.",
+    "size": 110,
+    "reviews": "258K",
+    "ratingAvg": 4.8,
+    "downloads": "998K",
+    "ratings": [
+      { "name": "1 star", "count": 932700 },
+      { "name": "2 star", "count": 1865400 },
+      { "name": "3 star", "count": 4663500 },
+      { "name": "4 star", "count": 5596200 },
+      { "name": "5 star", "count": 111924000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whDN2Q1K/google-photos.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 25,
+    "description": "Google Photos is your intelligent and secure home for a lifetime of photos and videos, solving the universal problem of managing a growing digital photo library. It offers free, unlimited high-quality storage (or compressed storage) for your memories, automatically backing them up from your phone and making them accessible from any device. Its most powerful feature is its AI-powered search, which can recognize people, pets, places, and things within your photos. You can search for 'beach,' 'dog,' or 'birthday cake' and instantly find all the relevant pictures without any manual tagging. The app automatically creates albums, collages, animations, and stylized movies from your photos, helping you rediscover old memories in new and delightful ways. It simplifies sharing, allowing you to create shared albums for events or automatically share new photos of specific people with your family. With robust editing tools to enhance your pictures and a clean, intuitive interface, Google Photos takes the hassle out of photo management. It's more than just cloud storage; it's a proactive and intelligent assistant for organizing, cherishing, and sharing your visual life story, ensuring your precious memories are safe, searchable, and easy to enjoy for years to come.",
+    "size": 75,
+    "reviews": "17M",
+    "ratingAvg": 4.6,
+    "downloads": "256M",
+    "ratings": [
+      { "name": "1 star", "count": 877150 },
+      { "name": "2 star", "count": 1754300 },
+      { "name": "3 star", "count": 4385750 },
+      { "name": "4 star", "count": 5262900 },
+      { "name": "5 star", "count": 105258000 }
     ]
   }
 ]

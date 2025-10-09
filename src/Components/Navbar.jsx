@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <div className="">
+    <div className="w-full">
       <div className="navbar bg-base-100 shadow-sm ">
         <div className="navbar-start">
           <div className="dropdown">
@@ -47,27 +47,45 @@ const Navbar = () => {
               src={logo}
               alt="Appify Application Logo"
             />
-            <Link to={"/"} className=" bg-gradient-to-r from-[#274c77] to-[#274c77]/70 text-transparent bg-clip-text text-2xl font-bold">
+            <Link
+              to={"/"}
+              className=" bg-gradient-to-r from-[#274c77] to-[#274c77]/70 text-transparent bg-clip-text text-2xl font-bold"
+            >
               {" "}
               AppiFy
             </Link>
           </div>
         </div>
         <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1">
-            <li>
-              <NavLink to="/">Home</NavLink>
-            </li>
-            <li>
-              <NavLink to="/AllApps">Apps</NavLink>
-            </li>
-            <li>
-              <NavLink to="/installation">Installation</NavLink>
-            </li>
+          <ul className="menu menu-horizontal px-1 flex items-center gap-10">
+              <NavLink
+                to="/"
+                className={`text-[18px] font-semibold `}
+              >
+                Home
+              </NavLink>
+
+              <NavLink 
+              to="/AllApps"
+              className={`text-[18px] font-semibold`}
+              >Apps</NavLink>
+
+              <NavLink 
+              to="/installation"
+              className={`text-[18px] font-semibold`}
+              >Installation</NavLink>
           </ul>
         </div>
         <div className="navbar-end">
-          <Link className="btn bg-gradient-to-br from-[#632EE3] to-[#632EE3]/60 text-white hover:transform hover:scale-102" to={"mk777.rf.gd"}> <FaGithub />Contribute</Link>
+          <a
+            className="btn bg-gradient-to-br from-[#632EE3] to-[#632EE3]/60 text-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg"
+            href="mk777.rf.gd"
+            target="blank"
+          >
+            {" "}
+            <FaGithub />
+            Contribute
+          </a>
         </div>
       </div>
     </div>

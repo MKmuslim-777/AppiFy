@@ -2,13 +2,12 @@
 @plugin "daisyui";
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
-
 *{
     font-family: "Inter", sans-serif;
 }
 
 .container{
-    @apply w-[1320px] mx-auto
+    @apply w-full max-w-[1320px] mx-auto
 }
 
 .customersValue{
@@ -17,4 +16,13 @@
 
 .customersCount{
     @apply text-[60px] md:text-[85px] text-white  font-bold
+}
+
+
+.active{
+    @apply bg-gradient-to-r from-[#632EE3] to-[#632EE3]/90 text-transparent bg-clip-text border-b border-[#632EE3] transition-all duration-300 ease-in-out hover:scale-103 
+}
+
+.hoverEffectElement{
+    @apply transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg
 }
