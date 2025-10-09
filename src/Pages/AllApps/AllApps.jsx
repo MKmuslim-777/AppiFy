@@ -1,8 +1,7 @@
 import React, { Suspense, useState } from "react";
 import useApps from "../../Hooks/useApps";
 import AllAppsCards from "./AllAppsCards";
-import { RingLoader } from "react-spinners";
-import { ThreeCircles } from "react-loader-spinner";
+import NotFoundApps from "../Errors/NotFoundApps";
 
 const AllApps = () => {
   const { apps } = useApps();
@@ -24,7 +23,9 @@ const AllApps = () => {
       </div>
       <div className="flex justify-between items-center py-8">
         <div>
-          <h1 className="text-2xl font-bold">({searchAbleApps.length}) Apps Found</h1>
+          <h1 className="text-2xl font-bold">
+            ({searchAbleApps.length}) Apps Found
+          </h1>
         </div>
         <label className="input">
           <svg
@@ -51,10 +52,16 @@ const AllApps = () => {
           />
         </label>
       </div>
-      <div className=" grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-10 px-2.5">
-        {searchAbleApps.map((app) => (
-          <AllAppsCards key={app.id} app={app}></AllAppsCards>
-        ))}
+      <div className=" ">
+        {searchAbleApps.length === 0 ? (
+          <NotFoundApps />
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-10 px-2.5">
+            {searchAbleApps.map((app) => (
+              <AllAppsCards key={app.id} app={app}></AllAppsCards>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );

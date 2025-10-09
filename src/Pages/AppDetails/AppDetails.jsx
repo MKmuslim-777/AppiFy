@@ -4,6 +4,10 @@ import { useParams } from "react-router";
 import downloadIcon from "../../assets/Images/icon-downloads.png";
 import starIcon from "../../assets/Images/icon-ratings.png";
 import reviewIcon from "../../assets/Images/icon-review.png";
+import AppsError from "../Errors/AppsError";
+import { setData } from "../../Until/localStorage";
+
+
 
 const AppDetails = () => {
   const { apps, loading } = useApps();
@@ -13,8 +17,9 @@ const AppDetails = () => {
     return <h1>Loading....</h1>;
   }
   const app = apps.find((p) => p.id === Number(id));
+
   if (!app) {
-    return
+    return <AppsError></AppsError>;
   }
 
   const {
@@ -29,6 +34,7 @@ const AppDetails = () => {
     ratings,
   } = app || {};
   // console.log(image);
+
 
   return (
     <div className="container my-20 px-5">
@@ -67,9 +73,13 @@ const AppDetails = () => {
             </div>
           </div>
           <div>
-            <button className="btn bg-green-500 text-white my-5 transition-all duration-300 ease-in-out hover:scale-103">
+            <button
+              className="btn bg-green-500 text-white my-5 transition-all duration-300 ease-in-out hover:scale-103"
+              onClick={() => setData(app)}
+            >
               Install Now <span>({size}) MB</span>
             </button>
+            
           </div>
         </div>
       </div>
