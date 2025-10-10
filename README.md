@@ -76,8 +76,8 @@ See the LICENSE file for more details.
 
 ## 👤 Developer
 
-**Muslim uddin mk**  
-[Visit Developer Site](https://mk777.rf.gd)
+**Visit Developer Site**  
+[Mk777](https://mk777.rf.gd)
 
 ---
 
