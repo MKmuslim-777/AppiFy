@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";
 const Navbar = () => {
   return (
     <div className="w-full">
-      <div className="navbar bg-base-100 shadow-sm ">
+      <div className="navbar bg-base-100 shadow-sm md:px-40">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -79,8 +79,8 @@ const Navbar = () => {
         <div className="navbar-end">
           <a
             className="btn bg-gradient-to-br from-[#632EE3] to-[#632EE3]/60 text-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg"
-            href="mk777.rf.gd"
-            target="blank"
+            href="https://mk777.rf.gd"
+            target="_blank"
           >
             {" "}
             <FaGithub />

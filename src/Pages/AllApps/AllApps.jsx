@@ -21,13 +21,13 @@ const AllApps = () => {
           Explore All Apps on the market Developed by us. We Code for Millions
         </p>
       </div>
-      <div className="flex justify-between items-center py-8">
+      <div className="flex md:flex-row flex-col justify-between items-center py-8">
         <div>
           <h1 className="text-2xl font-bold">
             ({searchAbleApps.length}) Apps Found
           </h1>
         </div>
-        <label className="input">
+        <label className="input md:mt-0 mt-10">
           <svg
             className="h-[1em] opacity-50"
             xmlns="http://www.w3.org/2000/svg"

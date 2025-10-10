@@ -5,7 +5,7 @@ import Footer from '../Components/Footer';
 
 const MainLayouts = () => {
     return (
-        <div className='bg-[#D2D2D2]/10'>
+        <div className='bg-[#D2D2D2]/20 min-h-screen'>
             <Navbar></Navbar>
             <Outlet></Outlet>
             <Footer></Footer>

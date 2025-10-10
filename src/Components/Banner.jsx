@@ -24,13 +24,19 @@ const Banner = () => {
           </p>
         </div>
         <div className="text-center gap-4">
-          <button className="btn mr-3 bg-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg">
+          <a className="btn mr-3 bg-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg"
+            href="https://play.google.com/store/games?hl=en"
+            target="_blank"
+          >
             <img className="w-[22px] " src={playStoreIcon} alt="" /> Play Store
-          </button>
-          <button className="btn bg-white transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg">
+          </a>
+          <a className="btn bg-white  transition-all duration-300 ease-in-out hover:scale-103 hover:shadow-lg"
+            href="https://www.apple.com/app-store/"
+            target="_blank"
+          >
             <img className="w-[22px] " src={appStoreIcon} alt="" />
             App Store
-          </button>
+          </a>
         </div>
         <div>
           <img

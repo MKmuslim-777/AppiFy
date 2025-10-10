@@ -4,7 +4,7 @@ import { useNavigate } from "react-router";
 const NoInstalledApps = () => {
   const navigate = useNavigate();
   return (
-    <div className="min-h-screen bg-gradient-to-br from-base-200 to-base-300 flex items-center justify-center p-6">
+    <div className=" flex items-center justify-center p-6">
       <div className="text-center space-y-6">
         <div className="space-y-2">
           <h1 className="text-3xl font-light text-base-content">

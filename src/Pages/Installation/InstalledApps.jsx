@@ -1,9 +1,26 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import downloadIcon from "../../assets/Images/icon-downloads.png";
 import starIcon from "../../assets/Images/icon-ratings.png";
+import { getDate, uninstallApp } from "../../Until/localStorage";
 
 const InstalledApps = ({ apk }) => {
   const { image, title, downloads, size, ratingAvg } = apk;
+  const [installedApps, setInstalledApps] = useState(() => getDate());
+  const [appsData, setAppsData] = useState([]);
+
+  useEffect(() => {
+    const installedIds = getDate();
+    const installedAppsData = appsData.filter((app) =>
+      installedIds.includes(app.id)
+    );
+    setInstalledApps(installedAppsData);
+  }, [appsData]);
+
+  const handleUninstall = (app) => {
+    uninstallApp(app);
+    setInstalledApps((prev) => 
+      prev.filter((p) => p.id !== app));
+  };
   return (
     <div>
       <div>
@@ -37,7 +54,11 @@ const InstalledApps = ({ apk }) => {
             </div>
           </div>
           <div>
-            <button className="btn md:ml-0 ml-40 text-center bg-green-500 text-white my-5 transition-all duration-300 ease-in-out hover:scale-103">
+            <button
+            
+              onClick={handleUninstall}
+              className="btn md:ml-0 ml-40 text-center bg-green-500 text-white my-5 transition-all duration-300 ease-in-out hover:scale-103"
+            >
               Uninstall
             </button>
           </div>
